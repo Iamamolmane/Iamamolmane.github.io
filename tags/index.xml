@@ -1,39 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nabarun Sen</title>
+    <title>Tags on Amol Mane</title>
     <link>https://iamamolmane.github.io/tags/</link>
-    <description>Recent content in Tags on Nabarun Sen</description>
+    <description>Recent content in Tags on Amol Mane</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>{year}</copyright>
-    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iamamolmane.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ArgoCD</title>
-      <link>https://iamamolmane.github.io/tags/argocd/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamamolmane.github.io/tags/argocd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deployment</title>
-      <link>https://iamamolmane.github.io/tags/deployment/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamamolmane.github.io/tags/deployment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://iamamolmane.github.io/tags/tutorial/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamamolmane.github.io/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-US</language>
+    <copyright>{year}</copyright><atom:link href="https://iamamolmane.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

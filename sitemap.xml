@@ -2,45 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iamamolmane.github.io/posts/jenkins/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+    <loc>https://iamamolmane.github.io/</loc>
+    <lastmod>2024-04-26T17:56:20+05:30</lastmod>
   </url><url>
     <loc>https://iamamolmane.github.io/categories/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T17:56:20+05:30</lastmod>
   </url><url>
-    <loc>https://iamamolmane.github.io/categories/continuous-delivery/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+    <loc>https://iamamolmane.github.io/categories/ci-cd/</loc>
+    <lastmod>2024-04-26T17:56:20+05:30</lastmod>
   </url><url>
-    <loc>https://iamamolmane.github.io/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamamolmane.github.io/categories/jenkins/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+    <loc>https://iamamolmane.github.io/posts/github-actions/</loc>
+    <lastmod>2024-04-26T17:56:20+05:30</lastmod>
   </url><url>
     <loc>https://iamamolmane.github.io/posts/</loc>
-    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamamolmane.github.io/tags/argocd/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamamolmane.github.io/tags/deployment/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamamolmane.github.io/categories/kubernetes/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-26T17:56:20+05:30</lastmod>
   </url><url>
     <loc>https://iamamolmane.github.io/tags/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamamolmane.github.io/posts/argo-cd/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamamolmane.github.io/tags/tutorial/</loc>
-    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://iamamolmane.github.io/categories/css/</loc>
-  </url><url>
-    <loc>https://iamamolmane.github.io/categories/javascript/</loc>
   </url><url>
     <loc>https://iamamolmane.github.io/categories/uncategories/</loc>
   </url>
